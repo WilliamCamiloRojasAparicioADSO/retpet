@@ -1,0 +1,84 @@
+body{
+  background-color: rgb(202, 255, 249);
+
+}
+.caja0{
+  background-color: aquamarine;
+  width: 1900px;
+  height: 70px;
+}
+.p1{
+  font-size:30px ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p2{
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 500px;
+  
+}
+.elemento1{
+  margin-top: 100px;
+  margin-left: 500px;
+}
+.elemento2{
+  margin-top: 100px;
+  margin-left: 600px;
+}
+
+.p3{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  
+}
+h3{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  width: 500px;
+}
+.p4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  width: 500px;
+}
+.p5{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h5{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  width: 500px;
+
+}
+.galery{
+  display: grid;
+  grid-template-columns: 500px 500px 500px ;
+  grid-template-rows: 45px 45px 45px ;
+  gap: 40px;
+  
+}
+.text{
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-template-rows: 45px 45px 45px;
+  gap: 700px;
+  width: 100px;
+  height: 100px;
+}
+button{
+  background-color: aquamarine;
+  width: 90px;
+  height: 80px;
+  margin: 100px;
+}
